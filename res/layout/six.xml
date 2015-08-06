@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/six"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/sixQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/six_question"
+        android:textSize="18sp"
+        android:background="#0066FF"
+        android:layout_margin="10dp"/>
+    
+    
+    <TextView
+        android:id="@+id/sixA"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/six_A"
+        android:layout_margin="10dp"
+        android:background="#661196EE"
+        android:gravity="center"/>
+        
+    <TextView
+        android:id="@+id/sixB"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/six_B"
+        android:layout_margin="10dp"
+        android:background="#662BB3D5"
+        android:gravity="center"/>
+        
+    <TextView
+        android:id="@+id/sixC"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/six_C"
+        android:layout_margin="10dp"
+        android:background="#6622DDDD"
+        android:gravity="center"/>
+        
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">测测你未来的就业方向</string>
+    <string name="again">再来一次</string>
+	
+    <string name="one_question">你一般喜欢通过哪种方式找工作?</string>
+    <string name="two_question">你通过邮件向招聘公司投了简历,可迟迟没有给你回应,你会怎么做?</string>
+    <string name="three_question">你同时被三家公司邀请参加面试,可受时间的限制,你只能去一家,你会选择:</string>
+    <string name="four_question">假如你去应聘,可人事主管告知与你应聘同一职位的人很多,建议你选择同等待遇的其他 职位，你会:</string>
+    <string name="five_question">公司要求面试者每人做一个简单的活动策划,再决定录用与否,就在大家进行策划时,你无意间发现旁边一位应聘者和你的方案大同小异,此时你会:</string>
+    <string name="six_question">你被辞退离开公司的第二天,想起自己的一个有纪念意义的物件,落在了以前的办公桌的抽屉里,你会:</string>
+    <string name="seven_question">你找了很久都没有找到新工作,这时,以前的老闆突然打电话让你重回岗位,你会:</string>
+    <string name="eight_question">你接了一份晚上工作的兼职,可公司突然要求晚上加班,你要怎么办?</string>
+    <string name="nine_question">如果有了份不错的工作,你还会选择做兼职吗?</string>
+    <string name="ten_question">下面哪种情况最可能让你提出辞职?</string>
+    
+    <string name="one_A">浏览招聘网站</string>
+    <string name="one_B">去人才市场</string>
+    <string name="one_C">访问报刊上的招聘信息</string>
+    
+    <string name="two_A">再投一次简历</string>
+    <string name="two_B">直接打电话向对方咨询</string>
+    <string name="two_C">估计没聘上,就此作罢</string>
+    
+    <string name="three_A">薪酬较高,但要转两趟车才能到的那家</string>
+    <string name="three_B">薪酬一般,离家有30分钟车程的那家</string>
+    <string name="three_C">薪酬较低,但步行便可到达那家</string>
+    
+    <string name="four_A">坚持应聘</string>
+    <string name="four_B">选择其他职位</string>
+    <string name="four_C">回家重新找工作</string>
+    
+    <string name="five_A">重新做一个完全不同的</string>
+    <string name="five_B">争取在细节上超过对方</string>
+    <string name="five_C">比他早一点交出方案</string>
+    
+    <string name="six_A">找时间去公司拿</string>
+    <string name="six_B">算了,不要了</string>
+    <string name="six_C">拜託以前的同事拿给你</string>
+    
+    <string name="seven_A">爽快答应</string>
+    <string name="seven_B">好马不吃回头草</string>
+    <string name="seven_C">如果加薪就回去</string>
+    
+    <string name="eight_A">一切以正职优先</string>
+    <string name="eight_B">哪里钱多就去哪里</string>
+    <string name="eight_C">有加班费就会加班</string>
+    
+    <string name="nine_A">会</string>
+    <string name="nine_B">不会</string>
+    <string name="nine_C">看情况</string>
+    
+    <string name="ten_A">待遇不佳</string>
+    <string name="ten_B">与上级主管不合</string>
+    <string name="ten_C">对工作感到厌烦</string>
+    
+    <string name="result_A">营销类: 你的个性很具有开创性,行动力第一,富有衝劲,不畏艰险。这种鲜明的特质,最适合成为开路先锋。营销类的工作没有规律和旧制的依循,最需要的就是一股脑的干劲,尤其是新产品的推广和新市场的拓展。越富有挑战性就越刺激,你对此就越能展现饱满的战斗力。佔领市场的成败不是产品,而是开拓市场的人,你很容易成为开拓市场的先驱者!</string>
+    <string name="result_B">设计类: 迎头赶进，破旧立新是你的人生主题。求新求变的精神，正好可以在设计相关的行业一展所长。设计这一行业需要的是个性、特色，正好能给你提供绝佳的发展空间。“科技紫微星座网”认为你只要把握好自己的优势，掌控好设计原理，在设计时进行大胆的创新、改造，发展前途将不可限量。</string>
+    <string name="result_C">文职类: 你是位非常感性的人，你对世界充满幻想，满怀情感地观察生活，能够从小小的事物中体味人生百味，能写出独具慧眼的人生感悟。而与文字打交道的人需要有一颗细腻的心观察世界，写出独特的人生见解。“科技紫微星座网”认为你天生有浪漫的情怀，一颗敏感的心，这个行业正好能给你自由发挥的空间。</string>
+    <string name="result_D">讲师类: 你热情如火、能言善辩，总能把自身的这股热力传播给周遭的人。在“科技紫微星座网”看来你非常适合做一名教师，用饱满的情绪渲染气氛来感染听众，带动听众的积极性。在职教的范畴内，你尽可以毫无顾忌地释放自己的能量，让身边所处的环境，所接受你观念洗礼的人，朝着你所意愿的目标去发展、改变。</string>
+    
+</resources>

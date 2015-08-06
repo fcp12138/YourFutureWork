@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/result_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/result_text"
+        android:padding="10dp"
+        android:textColor="#FFFFFFFF"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+	
+    <Button 
+        android:id="@+id/again_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3CC4C4"
+        android:text="@string/again"
+        android:layout_alignParentBottom="true"/>
+    
+</RelativeLayout>

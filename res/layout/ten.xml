@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/ten"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/tenQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_question"
+        android:textSize="18sp"
+        android:background="#0066FF"
+        android:layout_margin="10dp"/>
+    
+    
+    <TextView
+        android:id="@+id/tenA"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/ten_A"
+        android:layout_margin="10dp"
+        android:background="#661196EE"
+        android:gravity="center"/>
+        
+    <TextView
+        android:id="@+id/tenB"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/ten_B"
+        android:layout_margin="10dp"
+        android:background="#662BB3D5"
+        android:gravity="center"/>
+        
+    <TextView
+        android:id="@+id/tenC"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/item_height"
+        android:text="@string/ten_C"
+        android:layout_margin="10dp"
+        android:background="#6622DDDD"
+        android:gravity="center"/>
+        
+
+</LinearLayout>
